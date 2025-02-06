@@ -1,5 +1,5 @@
 # MobileSauceDemoApp
-# Appium TestNG Cucumber Framework
+# Appium TestNG Framework
 
 # Overview
 This framework enables seamless test automation for Mobile Android applications with the following features:
