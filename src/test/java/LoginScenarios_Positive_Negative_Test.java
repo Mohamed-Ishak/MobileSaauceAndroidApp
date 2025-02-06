@@ -15,7 +15,7 @@ import java.net.URL;
 import static io.appium.java_client.AppiumBy.accessibilityId;
 
 
-public class LoginPositiveScenarioTest {
+public class LoginScenarios_Positive_Negative_Test {
 
    private AndroidDriver androidDriver;
 
