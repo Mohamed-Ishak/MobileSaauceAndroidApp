@@ -1,5 +1,6 @@
 # MobileSauceDemoApp
 # Appium TestNG Cucumber Framework
+
 # Overview
 This framework enables seamless test automation for Mobile Android applications with the following features:
 
@@ -20,13 +21,11 @@ Cucumber for behavior-driven development (BDD) with feature files and step defin
 **Android Studio**: Creating a simulator to run the required scenarios.    
 **Appium Inspector**: Locating the elements.   
 
-Use CucumberReport for simple visualization.    
+
 
 
 # Test Execution 
 Use **mvn test** command to run the Framework from the Terminal
-
-The Report will be generated once the Execution is finished you will see it under the reports directory.
 
 # Contacts
 
